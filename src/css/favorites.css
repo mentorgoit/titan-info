@@ -1,0 +1,22 @@
+.favorites {
+    background-color: blue;
+}
+
+.container {
+    width: 1200px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+.favorites {}
+
+.favorites-list {
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.favorites-item {
+    display: flex;
+    gap: 15px
+}
