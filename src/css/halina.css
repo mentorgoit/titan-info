@@ -12,6 +12,7 @@
 }
 .head-list {
     display: flex;
+    flex-direction: column;
     color: chocolate;
 }
 .head-list-item {
