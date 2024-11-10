@@ -9,11 +9,11 @@
 }
 .head-text {
     font-size: 16px;
+    color: coral;
 }
 .head-list {
     display: flex;
     flex-direction: column;
-    color: chocolate;
 }
 .head-list-item {
     font-size: 12px;
