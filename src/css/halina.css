@@ -1,0 +1,20 @@
+.container {
+    width: 100%;
+    margin: o auto;
+    padding: 0 15px;
+}
+.head-morning {
+    color: brown;
+    font-size: 20px;
+}
+.head-text {
+    font-size: 16px;
+}
+.head-list {
+    display: flex;
+    color: chocolate;
+}
+.head-list-item {
+    font-size: 12px;
+    color: chartreuse;
+}
